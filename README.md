@@ -8,5 +8,5 @@ A Repository for Ranao HRS Microservice Release Notes
 
 ## Table of Contents
 - [Ranao HRS Version 0.1.384](microservices/ranao-hrs-v-0-1-384.md)
-- Ranao HRS Version 0.1.391
-- Ranao HRS Version 0.1.438
+- [Ranao HRS Version 0.1.391](microservices/ranao-hrs-v-0-1-391.md)
+- [Ranao HRS Version 0.1.438](microservices/ranao-hrs-v-0-1-438.md)
