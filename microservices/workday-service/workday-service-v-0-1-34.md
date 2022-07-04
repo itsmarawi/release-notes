@@ -21,3 +21,5 @@ New Features
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.4",
     "typeorm": "^0.2.26"
+
+    
